@@ -1,0 +1,135 @@
+.main-picture{
+  float: left;
+  margin:50px;
+}
+
+main{
+  border:solid 1px #e6e6e6;
+  box-shadow: 3px 1px 20px #e6e6e6;
+  margin-left: 450px;
+  padding-right: 50px;
+  margin-right: 700px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+h2{
+  font-family: cursive;
+  font-weight: bolder;
+  font-size:40px;
+}
+
+.first-words{
+  font-size: 15px;
+  color: grey;
+}
+
+
+.facebook{
+    background-color: #329BEE;
+    margin:50px;
+    padding:40px;
+}
+
+
+.facebook-link:link{
+  text-decoration: none;
+  background-color: #329BEE;
+  color: white;
+  font-size: 15px;
+  display: block;
+  margin: 20px;
+  padding-left: 30px;
+  padding-right: 10px;
+  border-radius: 10px;
+  position: relative;
+  right:-15px
+}
+
+.app-store{
+  width: 110px;
+  height: 35px
+}
+
+.google-play{
+  width: 110px;
+  height: 35px
+}
+
+.left-line{
+  margin-right: 130px;
+  position: relative;
+  top: 25px;
+}
+
+.inbetween-text{
+  top: 10px;
+
+}
+
+.right-line{
+margin-left: 160px;
+position: relative;
+bottom: 25px;
+}
+
+.Forms{
+
+}
+
+.confirmation{
+  font-size: 15px;
+  background-color: #329BEE;
+  color:white;
+  position: relative;
+  left:20px;
+  border-radius: 10px;
+}
+
+.log-in{
+  border:solid 1px #e6e6e6;
+  box-shadow: 3px 1px 20px #e6e6e6;
+  margin-left: 450px;
+  padding-right: 50px;
+  margin-right: 700px;
+  padding-bottom: 30px;
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
+.sign-up{
+  margin-left: -50px;
+}
+
+.log-in p{
+  position: relative;
+  top:10px;
+}
+
+.Disclaimer{
+  font-size:14px
+}
+
+.apps p{
+  margin-right: 750px;
+  text-align: center;
+}
+
+
+.footer{
+  position: relative;
+  top:50px;
+  left:-400px;
+  font-size:10px;
+  color:grey;
+}
+
+.footer a{
+  color:blue;
+}
+
+.copyright{
+  position: relative;
+  right: -120px;
+}
